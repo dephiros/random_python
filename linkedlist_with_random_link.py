@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
+
 class LinkedList(object):
     class Node(object):
         def __init__(self, value, node=None):
